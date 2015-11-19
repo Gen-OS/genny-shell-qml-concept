@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>wallpaper.jpg</file>
+        <file>account.png</file>
+        <file>battery.png</file>
+        <file>network.png</file>
+        <file>volume.png</file>
+        <file>apps.png</file>
+        <file>CalculatorApp.qml</file>
+        <file>script.js</file>
+        <file>notifications.png</file>
+        <file>Notification.qml</file>
+    </qresource>
+</RCC>
